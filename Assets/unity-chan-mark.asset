@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: unity-chan-mark
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4813994038968847638
+  m_GuidHigh: 3739611470620572810
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5088709166589927948
+      m_GuidHigh: 4719352371814035647
+    m_SerializedTextureGuid:
+      m_GuidLow: 3266239350384367410
+      m_GuidHigh: 11208283836854612472
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: mark
+    m_Texture: {fileID: 0}
